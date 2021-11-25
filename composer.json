@@ -1,5 +1,8 @@
 {
-    "name": "hancav/composer-logger",
+    "name": "hancav/composer-logger-test",
+    "homepage": "https://github.com/hancav/composer-logger-test",
+    "type": "library",
+    "version":"1.0.0-dev",
     "authors": [
         {
             "name": "Hancav",
