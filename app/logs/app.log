@@ -1,0 +1,6 @@
+[2020-07-06T15:08:17.621438+00:00] app.INFO: This is a log! ^_^  [] []
+[2020-07-06T15:08:17.623491+00:00] app.WARNING: This is a log warning! ^_^  [] []
+[2020-07-06T15:08:17.623540+00:00] app.ERROR: This is a log error! ^_^  [] []
+[2021-11-25T12:24:26.161479+00:00] app.INFO: This is a log! ^_^  [] []
+[2021-11-25T12:24:26.174003+00:00] app.WARNING: This is a log warning! ^_^  [] []
+[2021-11-25T12:24:26.174053+00:00] app.ERROR: This is a log error! ^_^  [] []

@@ -1,0 +1,17 @@
+{
+    "name": "hancav/composer-logger",
+    "authors": [
+        {
+            "name": "Hancav",
+            "email": "hancav82@hotmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^2.1"
+    },
+    "autoload": {
+      "psr-4": {
+          "App\\": "app/"
+      }
+    }
+}
